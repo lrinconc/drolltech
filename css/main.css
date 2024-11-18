@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v212_2 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v212_4 {
+  width: 332px;
+  color: rgba(2,84,146,1);
+  position: absolute;
+  top: 72px;
+  left: 234px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_10 {
+  width: 277px;
+  color: rgba(2,84,146,1);
+  position: absolute;
+  top: 484px;
+  left: 123px;
+  font-family: Alex Brush;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_11 {
+  width: 163px;
+  color: rgba(2,84,146,1);
+  position: absolute;
+  top: 696px;
+  left: 122px;
+  font-family: Alex Brush;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_5 {
+  width: 463px;
+  color: rgba(188,156,34,1);
+  position: absolute;
+  top: 111px;
+  left: 156px;
+  font-family: MonteCarlo;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_6 {
+  width: 492px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 285px;
+  left: 123px;
+  font-family: Gowun Batang;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_13 {
+  width: 250px;
+  color: rgba(188,156,34,1);
+  position: absolute;
+  top: 529px;
+  left: 123px;
+  font-family: Gowun Batang;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_14 {
+  width: 340px;
+  color: rgba(188,156,34,1);
+  position: absolute;
+  top: 741px;
+  left: 122px;
+  font-family: Gowun Batang;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_16 {
+  width: 381px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 791px;
+  left: 123px;
+  font-family: Gowun Batang;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v212_15 {
+  width: 232px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 604px;
+  left: 125px;
+  font-family: Gowun Batang;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
